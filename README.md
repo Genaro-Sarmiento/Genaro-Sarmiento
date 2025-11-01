@@ -1,5 +1,5 @@
 ### Hi, I'm Genaro!👋
-## I'm a <a href="https://github.com/Genaro-Sarmiento"> IT Programmer</a>, <a href="https://github.com/Genaro-Sarmiento"> Developer</a>
+## I'm a <a href="https://github.com/Genaro-Sarmiento"> IT Programmer</a>, <a href="https://github.com/Genaro-Sarmiento"> Web Developer</a>
 
 ## CONTACT DETAILS
  - Email: genarosarmiento0920@gmail.com
